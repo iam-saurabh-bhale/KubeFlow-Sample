@@ -19,7 +19,8 @@ This guide provides step-by-step instructions to **install Kubeflow Pipelines (K
 # ⚙️ Step 1: Start Minikube
 
 ```bash
-minikube start --cpus=4 --memory=8192 --disk-size=30g
+minikube start --cpus=4 --memory=8192 --driver=docker --force
+
 ```
 
 Verify cluster:
