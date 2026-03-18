@@ -72,10 +72,6 @@ http://localhost:8080
 # ⚙️ Step 5: Setup Python Environment
 
 ```bash
-mkdir kfp
-cd kfp
-python3 -m venv .kfp
-source .kfp/bin/activate
 pip install kfp==2.9.0
 ```
 
@@ -154,7 +150,7 @@ python3 iris_pipeline.py
 
 # ⚙️ Step 8: Upload Pipeline (Python SDK)
 
-Create file `upload_pipeline.py`:
+Create file `test.py`:
 
 ```python
 from kfp import Client
@@ -170,7 +166,7 @@ client.upload_pipeline(
 Run:
 
 ```bash
-python3 upload_pipeline.py
+python3 test.py
 ```
 
 ---
