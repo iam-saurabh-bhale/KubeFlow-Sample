@@ -233,5 +233,6 @@ kubectl describe pod <pod-name> -n kubeflow
 
 Screenshots : 
 <img width="1853" height="1011" alt="image" src="https://github.com/user-attachments/assets/3c729efa-93fa-407c-9a3a-1b5b98a2eda6" />
-<img width="1853" height="1011" alt="image" src="https://github.com/user-attachments/assets/3c729efa-93fa-407c-9a3a-1b5b98a2eda6" />
+<img width="1843" height="1080" alt="image" src="https://github.com/user-attachments/assets/8c0a72bc-47fe-4c5f-8dd4-760d4b12bb4c" />
+<img width="1843" height="1080" alt="image" src="https://github.com/user-attachments/assets/f6cc96af-3488-4785-953b-70fe0e8952dd" />
 
